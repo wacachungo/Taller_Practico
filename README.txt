@@ -1,0 +1,1 @@
+Cambios realizados: Se agrego una nueva card para el videojuego,una nueva imagen y se modifico el style.css para separar las cards
